@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kdavid-telcotrend
+- 👋 Hi, I’m Kiss Dávid, @kdavid-telcotrend
 - 👀 I’m interested in testing and currently in React learning.
 - 🌱 I’m currently learning React.
 
